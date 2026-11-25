@@ -13,7 +13,7 @@ The report presents the collection as a magazine-style visual story, combining p
 - Coverage period: **1980–2023**
 - Geographic scope: Bangladesh divisions and project locations recorded in the source register
 
-## Dashboards and report sections
+## Dashboards and Report Sections
 
 The workbook contains six presentation dashboards supported by additional worksheets and calculations:
 
@@ -24,7 +24,13 @@ The workbook contains six presentation dashboards supported by additional worksh
 5. **Geography and employers** — regional presence and the organizations associated with the recorded work.
 6. **Project record explorer** — an interactive project profile with filters and detail cards for sector, project type, employer, funding, dates, duration, and recorded value.
 
-## Key findings highlighted
+<img width="1184" height="777" alt="image" src="https://github.com/user-attachments/assets/227dffff-25de-48bf-9a96-9f7a8aad71b3" />
+
+
+<img width="1190" height="803" alt="image" src="https://github.com/user-attachments/assets/4ba44262-c92b-49c3-bbd3-7719126178df" />
+
+
+## Key Findings Highlighted
 
 - Transport infrastructure is the largest part of the collection by record count and recorded value.
 - Road construction and improvement is the most frequent detailed project type, followed by road rehabilitation and maintenance.
@@ -57,7 +63,7 @@ The analysis uses the project register supplied for this independent portfolio s
 
 Values are presented as recorded in the source register. BDT amounts are nominal recorded values and are not adjusted for inflation, exchange rates, or changes in project scope.
 
-## Important limitations
+## Important Limitations
 
 - This is an independent analysis of the supplied register, not an audited financial statement.
 - A register record may represent a project, phase, package, or work package; record count should not be interpreted as a count of unique contracts without further validation.
